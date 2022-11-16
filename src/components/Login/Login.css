@@ -1,0 +1,33 @@
+.loginPage{
+    justify-content: center;
+    align-items:center;
+    flex-direction: columns;
+    outline-style: none ;
+    margin: auto;
+    padding: 5px;
+}
+.forma{
+    box-sizing:border-box;
+    justify-content: center;
+    align-items:center;
+    display:flex;
+}
+
+.form{
+
+}
+
+.button:hover{
+    background-color: white;
+   border:1px solid #ced4da;
+}
+.pass{
+    
+    background-color:white;
+    border-radius: 0.375rem;
+}
+.mail{
+    
+    background-color:white;
+    border-radius: 0.375rem;
+}
